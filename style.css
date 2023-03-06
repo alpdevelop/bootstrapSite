@@ -1,0 +1,17 @@
+.avatar{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    margin-top: 10px;
+    align-items: center;
+}
+.avatar-box{
+    text-align: center;
+}
+
+.footer-row{
+    height: 100px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
